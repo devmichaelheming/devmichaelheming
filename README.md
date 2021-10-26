@@ -5,7 +5,7 @@
 # 👋 Olá, sou o Michael! 🇧🇷
 ![Profile views](https://gpvc.arturio.dev/devmichaelheming)
 
-##### Atualmente estou atuando como Desenvolvedor *Full Stack*, e estou sempre buscando me manter atualizado.
+##### Atualmente estou atuando como Desenvolvedor *Web*, e estou sempre buscando me manter atualizado.
 
 ##### 🎓 Formação
  - Análise e Desenvolvimento de Sistemas.
