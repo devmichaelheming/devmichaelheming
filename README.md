@@ -3,7 +3,7 @@
 	<img 
 		alt="cover" 
 		loading="lazy"
-		src="./banner.png"
+		src="./assets/banner.gif"
 		title="Michael Heming" 
 	>
 </p>
