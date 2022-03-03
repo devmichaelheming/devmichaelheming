@@ -14,7 +14,7 @@
 
 #### Meu nome é Michael Heming, sou apaixonado pelo universo da programação, procuro me atualizar constantemente em relação as tecnologias do mercado e busco sempre trazer a melhor experiência possível ao usuário com base em UX/UI e performance.
 
- - Atualmente estou focado em aperfeiçoar minhas skills em: ReactJs, NextJs, NodeJs e NestJs.
+ - Atualmente estou focado em aperfeiçoar minhas skills em: ReactJs, NextJs e Typescript.
 
 <br>
 
