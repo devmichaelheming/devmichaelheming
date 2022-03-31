@@ -35,7 +35,7 @@
 <br>
 
 ## Trabalho Atual
-- Desenvolvedor web na [TopSapp - Gestão de Provedores](https://www.topsapp.com.br/).
+- Desenvolvedor front-end na [e-Auditoria - 3ª Geração de Auditoria Digital](https://www.e-auditoria.com.br/).
 
 <br>
 
