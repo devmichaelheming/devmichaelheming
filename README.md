@@ -12,9 +12,23 @@
 
 <hr>
 
-#### Meu nome é Michael Heming, sou apaixonado pelo universo da programação, procuro me atualizar constantemente em relação as tecnologias do mercado e busco sempre trazer a melhor experiência possível ao usuário com base em UX/UI e performance.
 
- - Atualmente estou focado em aperfeiçoar minhas skills em: ReactJs, NextJs e Typescript.
+ Sou formado em Análise e Desenvolvimento de Sistemas, atualmente estou atuando como desenvolvedor Front End. Minhas habilidades incluem HTML, CSS, Javascript, ReactJs/NextJs - Typescript, Redux, Zustand, Context API, Styled Components, Storybook, e Testes Unitários com Jest, entre outras.
+
+Ao longo da minha carreira, tive a oportunidade de contribuir para projetos diversificados, tais como:
+
+- Desenvolvimento de um Sistema de Gerenciamento de Provedores.
+- Participação no desenvolvimento de sistemas focados em conformidade tributária e recuperação tributária.
+- Colaboração no desenvolvimento de sistemas de análise e cálculo fiscal.
+- Contribuição no desenvolvimento de sistemas voltados para leilões e faturamento de gados.
+
+Minha prática de trabalho envolve o uso do Bitbucket como controle de versionamento de código e a ferramenta Jira para gestão de projetos, seguindo a metodologia ágil SCRUM.
+
+Acredito que programação vai além de códigos; é uma disciplina que exige aprendizado contínuo, disposição para enfrentar desafios constantes e a habilidade de compreender as necessidades dos clientes. A importância do networking também é algo que sempre valorizei em minha jornada.
+
+Você pode conferir meu trabalho e projetos no meu perfil do GitHub: GitHub: https://github.com/devmichaelheming
+
+Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. Vamos trabalhar juntos para criar soluções incríveis!
 
 <br>
 
