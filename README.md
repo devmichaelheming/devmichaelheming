@@ -13,22 +13,22 @@
 <hr>
 
 
- Sou formado em Análise e Desenvolvimento de Sistemas, atualmente estou atuando como desenvolvedor Front End. Minhas habilidades incluem HTML, CSS, Javascript, ReactJs/NextJs - Typescript, Redux, Zustand, Context API, Styled Components, Storybook, e Testes Unitários com Jest, entre outras.
+ Olá! Sou Michael Heming de Oliveira, desenvolvedor front-end formado em Análise e Desenvolvimento de Sistemas. Com mais de 5 anos de experiência, estou atualmente direcionando meus estudos para o desenvolvimento frontend, enquanto também invisto tempo no aprendizado de mobile(ReactNative) e back-end(NestJs). Estou comprometido em expandir minha expertise nessas áreas para oferecer soluções mais completas e eficientes no desenvolvimento de software.
 
 Ao longo da minha carreira, tive a oportunidade de contribuir para projetos diversificados, tais como:
 
-- Desenvolvimento de um Sistema de Gerenciamento de Provedores.
-- Participação no desenvolvimento de sistemas focados em conformidade tributária e recuperação tributária.
-- Colaboração no desenvolvimento de sistemas de análise e cálculo fiscal.
-- Contribuição no desenvolvimento de sistemas voltados para leilões e faturamento de gados.
+- Sistema de Gerenciamento de Provedores.
+- Sistemas focados em conformidade tributária e recuperação tributária.
+- Sistemas de análise e cálculo fiscal.
+- Sistemas voltados para leilões e faturamento de gados.
+- Sistema com o foco em soluções inovadoras para o setor varejista.
 
-Minha prática de trabalho envolve o uso do Bitbucket como controle de versionamento de código e a ferramenta Jira para gestão de projetos, seguindo a metodologia ágil SCRUM.
+Na maioria dos projetos citados acima foi utilizado o Bitbucket como controle de versionamento de código e a ferramenta Jira para gestão de projetos, seguindo a metodologia ágil SCRUM.
 
-Acredito que programação vai além de códigos; é uma disciplina que exige aprendizado contínuo, disposição para enfrentar desafios constantes e a habilidade de compreender as necessidades dos clientes. A importância do networking também é algo que sempre valorizei em minha jornada.
+Acredito que programação vai além de códigos, é uma disciplina que exige aprendizado contínuo, disposição para enfrentar desafios constantes e a habilidade de compreender as necessidades dos clientes. A importância do networking também é algo que sempre valorizei em minha jornada.
 
-Você pode conferir meu trabalho e projetos no meu perfil do GitHub: GitHub: https://github.com/devmichaelheming
-
-Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e contribuir para projetos inovadores. Vamos trabalhar juntos para criar soluções incríveis!
+Você pode conferir meu trabalho e projetos no meu perfil do GitHub:
+https://github.com/devmichaelheming
 
 <br>
 
