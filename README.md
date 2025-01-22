@@ -27,20 +27,6 @@ Na maioria dos projetos citados acima foi utilizado o Bitbucket como controle de
 
 Acredito que programação vai além de códigos, é uma disciplina que exige aprendizado contínuo, disposição para enfrentar desafios constantes e a habilidade de compreender as necessidades dos clientes. A importância do networking também é algo que sempre valorizei em minha jornada.
 
-Você pode conferir meu trabalho e projetos no meu perfil do GitHub:
-https://github.com/devmichaelheming
-
-<br>
-
-<a href="https://github.com/devmichaelheming">
-	<table>
-		<tr>
-			<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=devmichaelheming&theme=midnight-purple&hide_border=true"/></td>
-			<td><img src="https://github-readme-stats.vercel.app/api?username=devmichaelheming&theme=midnight-purple&show_icons=true&hide_border=true"/></td>
-		</tr>
-	</table>
-</a>
-
 <br>
 
 ## Formação
